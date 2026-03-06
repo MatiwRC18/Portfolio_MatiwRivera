@@ -216,9 +216,3 @@ Mostrará proyectos full stack, tecnologías dominadas y conocimientos en buenas
 
 1. Enfoque en buenas prácticas de arquitectura y código limpio.
 2. Interés en tecnologías modernas como AI y sistemas distribuidos.
-
----
-
-## 6. Enlace al Diseño en Figma
-
-**Figma:** [Portfolio - Figma](https://www.figma.com/design/yJQ1GKCnhSHU5NuYbfmimc/Portfolio?node-id=35-20&t=AW71q1DEByT9h5EV-1)
